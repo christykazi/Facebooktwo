@@ -506,3 +506,42 @@ transition: padding-left 0.5s, background 0.5s;
    padding-left: 23px;
    background: #0a0a0a;
 }
+
+
+
+
+/* profile page */
+.profile-container{
+padding: 20px 15%;
+color: #626262;
+}
+.cover-img{
+   width: 100%;
+   border-radius: 6px;
+   margin-bottom: 14px;
+}
+.profile-details{
+  background: var(--bg-color); 
+  padding: 20px;
+  border-radius: 4px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.profile-details img{
+   width: 20%;
+   height: 30%;
+   margin-right: 20px;
+   border-radius: 6px;
+}
+.pd-row{
+ display: flex;
+align-items: flex-start;
+}
+.pd-row div h3{
+   font-size: 25px;
+   font-weight: 600;
+}
+.pd-row div p{
+   font-size: 13px;
+}
