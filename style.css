@@ -763,6 +763,7 @@ align-items: flex-start;
 .pd-right a img{
   width: 20px; 
 }
+
 .profile-info{
    display: flex;
    align-self: flex-start;
