@@ -663,6 +663,12 @@ a{
    
 
 }
+form{
+   box-shadow: 0 2px 4px rgba(0,0, 0, 0.1), 0 8px 16px rgba(0,0, 0, 0.1);
+   max-width: 400px;
+   width: 100%;
+   padding: 20px;
+}
  
 .homedo{
    padding-top: 20px;
